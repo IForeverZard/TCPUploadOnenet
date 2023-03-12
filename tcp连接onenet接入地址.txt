@@ -1,0 +1,5 @@
+TCP接入地址：  dtu.heclouds.com	183.230.40.40	1811
+
+*产品ID#鉴权信息#lua脚本名称*
+*579976#dev1#zard*
+
